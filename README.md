@@ -1,4 +1,4 @@
-[logo](https://github.com/Ad123M/Manoranjan-Bera/blob/main/img/Manoranjan1976.png)
+[logo](https://github.com/Ad123M/Manoranjan-Bera/commit/f69de8c3b0f9e2fc78b9ba115bc62f5c7400c5c1)
 <h1 align="center">Hi 👋, I'm Manoranjan Bera</h1>
 <h3 align="center">A passionate Gold and Silver Ornament from India</h3>
 
