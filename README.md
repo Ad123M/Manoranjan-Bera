@@ -1,4 +1,4 @@
-[logo]()
+[logo](https://github.com/Ad123M/Manoranjan-Bera/blob/main/img/Manoranjan1976.png)
 <h1 align="center">Hi 👋, I'm Manoranjan Bera</h1>
 <h3 align="center">A passionate Gold and Silver Ornament from India</h3>
 
